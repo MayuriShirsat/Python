@@ -25,4 +25,4 @@ print("Average of entered no is",(a+b)/2)
 
 # Que6->porgram to calculate square of no entered by user
 a=int(input("Enter any no:"))
-print("square of entered no is",a**2)#or (a*a)
+print("square of entered no is",a**2) #or (a*a)
