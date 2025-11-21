@@ -19,3 +19,12 @@ l1.insert(3,33333)# insert 33333 at index 3 ie.,after 2
 print(l1)
 l1.pop(3)
 print(l1)
+l1.remove(12)
+print(l1)
+
+# Tuple->imutable containers to store a set of values of nay datatype (list but imutable)
+a=(1,2,57.8,45,"puja")#for tuple we use "()" and for list "[]"
+print(type(a))
+# a[0]=234  # can not change
+# methods are same as list->concatinate,repetation,membership(is member or not),len etc
+
