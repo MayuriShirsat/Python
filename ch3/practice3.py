@@ -11,7 +11,7 @@ print(letter.replace("<|name|>","mayuri").replace("<|Date|>","22/12//2025"))
 
 # Que3->detect doubble space in a string and replace it with single space
 st="hello good  morning"
-print(st.find("  "))
+print(st.find("  "))#if not found give -1 in output
 print(st.replace("  "," "))
 
 # Que4->use escale characters
