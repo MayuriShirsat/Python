@@ -37,7 +37,7 @@ print(type(c))
 
 # sets are not ordered ie., in o/p we get the elements in any random order
 # sets are unindexed
-# we can not change exesting items in sets
+# we can not change exesting items in sets(immutable)
 
 # set methods
 a.add(345)
