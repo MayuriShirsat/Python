@@ -26,5 +26,4 @@ print(l1)
 a=(1,2,57.8,45,"puja")#for tuple we use "()" and for list "[]"
 print(type(a))
 # a[0]=234  # can not change
-# methods are same as list->concatinate,repetation,membership(is member or not),len etc
-
+# methods are same as list->.count,concatinate=a+b,repetation,membership(is member or not) ex.,->"hi" in a,len(),min(a),max(a),slicing, etc
