@@ -1,21 +1,21 @@
 # prectice set4
-# Que1->program to store seven marks in a list entered by user
-marks=[]
-m1=int(input("Enter the marks:"))
-marks.append(m1)
-m2=int(input("Enter the marks:"))
-marks.append(m2)
-f3=int(input("Enter the marks:"))
-marks.append(f3)
-f4=int(input("Enter the marks:"))
-marks.append(f4)
-m5=int(input("Enter the marks:"))
-marks.append(m5)
-f6=int(input("Enter the marks:"))
-marks.append(f6)
-f7=int(input("Enter the marks:"))
-marks.append(f7)
-print(marks)
+# Que1->program to store seven fruits in a list entered by user
+fruits=[]
+m1=input("Enter the fruits:")
+fruits.append(m1)
+m2=input("Enter the fruits:")
+fruits.append(m2)
+f3=input("Enter the fruits:")
+fruits.append(f3)
+f4=input("Enter the fruits:")
+fruits.append(f4)
+m5=input("Enter the fruits:")
+fruits.append(m5)
+f6=input("Enter the fruits:")
+fruits.append(f6)
+m7=input("Enter the fruits:")
+fruits.append(m7)
+print(fruits)
 
 # Que2->program to accept marks of 6 student and display in a sorted manner
 marks=[]
