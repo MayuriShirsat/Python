@@ -56,5 +56,5 @@ lang=(input("Enter your name:"))
 name=(input("Enter the language you like:"))
 d.update({name:lang})
 print(d)
-# If 2 frinds have same name but diffrent languages then python assign the 2nd entred language to the first name at the place of 1st language
+# If 2 frinds have same name but different languages then python assign the 2nd entred language to the first name at the place of 1st language
  
