@@ -67,7 +67,7 @@ else:
 
 # Que7->program to find whether given post is talking about Mayuri or not
 post=input("Enter the post here:")
-if("Mayuri" in post or "mayuri" in post):
+if("Mayuri".lower() in post.lower()):# convert string "Mayuri" in lower case first so that any case sensitivity is reduce 
     print("Post is about Mayuri")
 else:
     print("Post is not about Mayuri")
