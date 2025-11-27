@@ -1,4 +1,5 @@
-# SNACK,WATER,GUN GAME
+# SNACK,WATER,GUN GAME->
+
 # import random
 # computer=random.choice(["s","g","w"]) # random.choice take only one argument at a time ex., list tuple etc.,
 # you=input("Enter s for snack,w for water,and g for gun:")
