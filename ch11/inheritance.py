@@ -143,3 +143,15 @@ p2 = Point(4, 5)
 
 p3 = p1 + p2   # calls __add__
 print(p3)      # calls __str__
+
+'''
+ many more methodes
+ __add__(self, other)
+ __sub__
+ __mul__
+ __truediv__(/)
+ __mod__(%)
+ __eq__(==)
+ __str__()
+ __len__()
+'''
