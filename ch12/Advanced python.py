@@ -77,8 +77,8 @@ print("Good Day")
 
 # Reising Exception -> We can raise custom exceptions using the 'rise' keyword in python
 
-a= int(input("Enter a number"))
-b= int(input("Enter 2nd number"))
+a= int(input("Enter a number:"))
+b= int(input("Enter 2nd number:"))
 
 if(b==0):
     raise ZeroDivisionError("Heyy our program is not suppouse to divide by zero")
