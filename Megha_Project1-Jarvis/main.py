@@ -25,3 +25,9 @@ venv → Python 3.14
 # .\venv\Scripts\activate.ps1
 
 # pip install speechrecognition pyaudio
+# pip install setuptools
+'''
+PyAudio:A Python library used to capture audio from the microphone.
+SpeechRecognition:A Python library used to convert spoken language into text.
+Setuptools:A utility library used for building and installing Python packages.
+'''
